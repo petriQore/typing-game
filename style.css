@@ -1,0 +1,14 @@
+body
+{
+    background-color: #302d2d;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.score
+{
+    color: rgb(101, 109, 216);
+    font-size: 30px;
+    display: flex;
+    justify-content: right;
+}
